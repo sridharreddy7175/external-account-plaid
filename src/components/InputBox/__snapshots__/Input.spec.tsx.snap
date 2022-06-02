@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputBox renders correctly 1`] = `
+Array [
+  <style
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": ".css-i1z8pl{box-sizing:border-box;margin:0;min-width:0;padding-left:64px;padding-right:64px;}",
+      }
+    }
+    data-emotion="css i1z8pl"
+  />,
+  <div
+    className="css-i1z8pl"
+  >
+    <style
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": ".css-wcopiy{box-sizing:border-box;margin:0;min-width:0;display:block;width:100%;padding:8px;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;font-size:inherit;line-height:inherit;border:1px solid;border-radius:4px;color:inherit;background-color:transparent;margin-bottom:16px;}.css-wcopiy:autofill,.css-wcopiy:autofill:hover,.css-wcopiy:autofill:focus{box-shadow:inset 0 0 0 1000px var(--theme-ui-input-autofill-bg);font-size:inherit;}.css-wcopiy:autofill:first-line,.css-wcopiy:autofill:hover:first-line,.css-wcopiy:autofill:focus:first-line{font-size:1rem;}.css-wcopiy:-webkit-autofill,.css-wcopiy:-webkit-autofill:hover,.css-wcopiy:-webkit-autofill:focus{box-shadow:inset 0 0 0 1000px var(--theme-ui-input-autofill-bg);font-size:inherit;}.css-wcopiy:-webkit-autofill:first-line,.css-wcopiy:-webkit-autofill:hover:first-line,.css-wcopiy:-webkit-autofill:focus:first-line{font-size:1rem;}",
+        }
+      }
+      data-emotion="css wcopiy"
+    />
+    <input
+      className="css-wcopiy"
+      name="email"
+      onChange="OnChange"
+      style={
+        Object {
+          "height": "45px",
+        }
+      }
+      type="box"
+      value="email"
+    />
+  </div>,
+]
+`;
